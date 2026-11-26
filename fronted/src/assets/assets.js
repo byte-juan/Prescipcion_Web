@@ -60,240 +60,240 @@ export const assets = {
 
 export const specialityData = [
     {
-        speciality: 'General physician',
+        speciality: 'Medicina General',
         image: General_physician
     },
     {
-        speciality: 'Gynecologist',
+        speciality: 'Ginecologia',
         image: Gynecologist
     },
     {
-        speciality: 'Dermatologist',
+        speciality: 'Dermatologia',
         image: Dermatologist
     },
     {
-        speciality: 'Pediatricians',
+        speciality: 'Pediatria',
         image: Pediatricians
     },
     {
-        speciality: 'Neurologist',
+        speciality: 'Neurologia',
         image: Neurologist
     },
     {
-        speciality: 'Gastroenterologist',
+        speciality: 'Gastroenterologia',
         image: Gastroenterologist
     },
 ]
 
 export const doctors = [
-    {
+{
         _id: 'doc1',
-        name: 'Dr. Richard James',
+        name: 'Dr. Ricardo Jiménez',
         image: doc1,
-        speciality: 'General physician',
-        degree: 'MBBS',
-        experience: '4 Years',
-        about: 'Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies. Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies.',
+        speciality: 'Médico general',
+        degree: 'Licenciado en Medicina',
+        experience: '4 años',
+        about: 'El Dr. Jiménez tiene un firme compromiso con la prestación de atención médica integral, centrándose en la medicina preventiva, el diagnóstico temprano y las estrategias de tratamiento eficaces.',
         fees: 50,
         address: {
-            line1: '17th Cross, Richmond',
-            line2: 'Circle, Ring Road, London'
+            line1: 'Jr. Dámaso Beraún 5ta cuadra',
+            line2: 'Huánuco, Perú'
         }
     },
     {
         _id: 'doc2',
-        name: 'Dr. Emily Larson',
+        name: 'Dra. Emilia Lara',
         image: doc2,
-        speciality: 'Gynecologist',
-        degree: 'MBBS',
-        experience: '3 Years',
-        about: 'Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies. Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies.',
+        speciality: 'Ginecóloga',
+        degree: 'Licenciada en Medicina',
+        experience: '3 años',
+        about: 'La Dra. Lara tiene un firme compromiso con la prestación de atención médica integral, centrándose en la medicina preventiva, el diagnóstico temprano y las estrategias de tratamiento eficaces.',
         fees: 60,
         address: {
-            line1: '27th Cross, Richmond',
-            line2: 'Circle, Ring Road, London'
+            line1: 'Jr. Huallayco 11va cuadra',
+            line2: 'Huánuco, Perú'
         }
     },
     {
         _id: 'doc3',
-        name: 'Dr. Sarah Patel',
+        name: 'Dra. Sara Patiño',
         image: doc3,
-        speciality: 'Dermatologist',
-        degree: 'MBBS',
-        experience: '1 Years',
-        about: 'Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies. Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies.',
+        speciality: 'Dermatóloga',
+        degree: 'Licenciada en Medicina',
+        experience: '1 año',
+        about: 'La Dra. Patiño tiene un firme compromiso con la prestación de atención médica integral, centrándose en la medicina preventiva, el diagnóstico temprano y las estrategias de tratamiento eficaces.',
         fees: 30,
         address: {
-            line1: '37th Cross, Richmond',
-            line2: 'Circle, Ring Road, London'
+            line1: 'Jr. Tarapacá 2da cuadra',
+            line2: 'Huánuco, Perú'
         }
     },
     {
         _id: 'doc4',
-        name: 'Dr. Christopher Lee',
+        name: 'Dr. Cristóbal Leo',
         image: doc4,
-        speciality: 'Pediatricians',
-        degree: 'MBBS',
-        experience: '2 Years',
-        about: 'Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies. Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies.',
+        speciality: 'Pediatra',
+        degree: 'Licenciado en Medicina',
+        experience: '2 años',
+        about: 'El Dr. Leo tiene un firme compromiso con la prestación de atención médica integral, centrándose en la medicina preventiva, el diagnóstico temprano y las estrategias de tratamiento eficaces.',
         fees: 40,
         address: {
-            line1: '47th Cross, Richmond',
-            line2: 'Circle, Ring Road, London'
+            line1: 'Jr. 28 de Julio 6ta cuadra',
+            line2: 'Huánuco, Perú'
         }
     },
     {
         _id: 'doc5',
-        name: 'Dr. Jennifer Garcia',
+        name: 'Dra. Jennifer García',
         image: doc5,
-        speciality: 'Neurologist',
-        degree: 'MBBS',
-        experience: '4 Years',
-        about: 'Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies. Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies.',
+        speciality: 'Neuróloga',
+        degree: 'Licenciada en Medicina',
+        experience: '4 años',
+        about: 'La Dra. García tiene un firme compromiso con la prestación de atención médica integral, centrándose en la medicina preventiva, el diagnóstico temprano y las estrategias de tratamiento eficaces.',
         fees: 50,
         address: {
-            line1: '57th Cross, Richmond',
-            line2: 'Circle, Ring Road, London'
+            line1: 'Av. Universitaria',
+            line2: 'Huánuco, Perú'
         }
     },
     {
         _id: 'doc6',
-        name: 'Dr. Andrew Williams',
+        name: 'Dr. Andrés Guillén',
         image: doc6,
-        speciality: 'Neurologist',
-        degree: 'MBBS',
-        experience: '4 Years',
-        about: 'Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies. Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies.',
+        speciality: 'Neurólogo',
+        degree: 'Licenciado en Medicina',
+        experience: '4 años',
+        about: 'El Dr. Guillén tiene un firme compromiso con la prestación de atención médica integral, centrándose en la medicina preventiva, el diagnóstico temprano y las estrategias de tratamiento eficaces.',
         fees: 50,
         address: {
-            line1: '57th Cross, Richmond',
-            line2: 'Circle, Ring Road, London'
+            line1: 'Av. León de Huánuco',
+            line2: 'Huánuco, Perú'
         }
     },
     {
         _id: 'doc7',
-        name: 'Dr. Christopher Davis',
+        name: 'Dr. Cristóbal Dávila',
         image: doc7,
-        speciality: 'General physician',
-        degree: 'MBBS',
-        experience: '4 Years',
-        about: 'Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies. Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies.',
+        speciality: 'Médico general',
+        degree: 'Licenciado en Medicina',
+        experience: '4 años',
+        about: 'El Dr. Dávila tiene un firme compromiso con la prestación de atención médica integral, centrándose en la medicina preventiva, el diagnóstico temprano y las estrategias de tratamiento eficaces.',
         fees: 50,
         address: {
-            line1: '17th Cross, Richmond',
-            line2: 'Circle, Ring Road, London'
+            line1: 'Jr. Ayacucho',
+            line2: 'Huánuco, Perú'
         }
     },
     {
         _id: 'doc8',
-        name: 'Dr. Timothy White',
+        name: 'Dr. Timoteo Blanco',
         image: doc8,
-        speciality: 'Gynecologist',
-        degree: 'MBBS',
-        experience: '3 Years',
-        about: 'Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies. Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies.',
+        speciality: 'Ginecólogo',
+        degree: 'Licenciado en Medicina',
+        experience: '3 años',
+        about: 'El Dr. Blanco tiene un firme compromiso con la prestación de atención médica integral, centrándose en la medicina preventiva, el diagnóstico temprano y las estrategias de tratamiento eficaces.',
         fees: 60,
         address: {
-            line1: '27th Cross, Richmond',
-            line2: 'Circle, Ring Road, London'
+            line1: 'Jr. 2 de Mayo',
+            line2: 'Huánuco, Perú'
         }
     },
     {
         _id: 'doc9',
-        name: 'Dr. Ava Mitchell',
+        name: 'Dra. Ava Mitchell',
         image: doc9,
-        speciality: 'Dermatologist',
-        degree: 'MBBS',
-        experience: '1 Years',
-        about: 'Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies. Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies.',
+        speciality: 'Dermatóloga',
+        degree: 'Licenciada en Medicina',
+        experience: '1 año',
+        about: 'La Dra. Mitchell tiene un firme compromiso con la prestación de atención médica integral, centrándose en la medicina preventiva, el diagnóstico temprano y las estrategias de tratamiento eficaces.',
         fees: 30,
         address: {
-            line1: '37th Cross, Richmond',
-            line2: 'Circle, Ring Road, London'
+            line1: 'Jr. Hermilio Valdizán 1ra cuadra',
+            line2: 'Huánuco, Perú'
         }
     },
     {
         _id: 'doc10',
         name: 'Dr. Jeffrey King',
         image: doc10,
-        speciality: 'Pediatricians',
-        degree: 'MBBS',
-        experience: '2 Years',
-        about: 'Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies. Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies.',
+        speciality: 'Pediatra',
+        degree: 'Licenciado en Medicina',
+        experience: '2 años',
+        about: 'El Dr. King tiene un firme compromiso con la prestación de atención médica integral, centrándose en la medicina preventiva, el diagnóstico temprano y las estrategias de tratamiento eficaces.',
         fees: 40,
         address: {
-            line1: '47th Cross, Richmond',
-            line2: 'Circle, Ring Road, London'
+            line1: 'Jr. Abtao 10ma cuadra',
+            line2: 'Huánuco, Perú'
         }
     },
     {
         _id: 'doc11',
-        name: 'Dr. Zoe Kelly',
+        name: 'Dra. Zoe Kelly',
         image: doc11,
-        speciality: 'Neurologist',
-        degree: 'MBBS',
-        experience: '4 Years',
-        about: 'Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies. Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies.',
+        speciality: 'Neuróloga',
+        degree: 'Licenciada en Medicina',
+        experience: '4 años',
+        about: 'La Dra. Kelly tiene un firme compromiso con la prestación de atención médica integral, centrándose en la medicina preventiva, el diagnóstico temprano y las estrategias de tratamiento eficaces.',
         fees: 50,
         address: {
-            line1: '57th Cross, Richmond',
-            line2: 'Circle, Ring Road, London'
+            line1: 'Av. Alameda de la República',
+            line2: 'Huánuco, Perú'
         }
     },
     {
         _id: 'doc12',
-        name: 'Dr. Patrick Harris',
+        name: 'Dr. Patricio Harris',
         image: doc12,
-        speciality: 'Neurologist',
-        degree: 'MBBS',
-        experience: '4 Years',
-        about: 'Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies. Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies.',
+        speciality: 'Neurólogo',
+        degree: 'Licenciado en Medicina',
+        experience: '4 años',
+        about: 'El Dr. Harris tiene un firme compromiso con la prestación de atención médica integral, centrándose en la medicina preventiva, el diagnóstico temprano y las estrategias de tratamiento eficaces.',
         fees: 50,
         address: {
-            line1: '57th Cross, Richmond',
-            line2: 'Circle, Ring Road, London'
+            line1: 'Jr. General Prado',
+            line2: 'Huánuco, Perú'
         }
     },
     {
         _id: 'doc13',
-        name: 'Dr. Chloe Evans',
+        name: 'Dra. Clara Evans',
         image: doc13,
-        speciality: 'General physician',
-        degree: 'MBBS',
-        experience: '4 Years',
-        about: 'Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies. Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies.',
+        speciality: 'Médica general',
+        degree: 'Licenciada en Medicina',
+        experience: '4 años',
+        about: 'La Dra. Evans tiene un firme compromiso con la prestación de atención médica integral, centrándose en la medicina preventiva, el diagnóstico temprano y las estrategias de tratamiento eficaces.',
         fees: 50,
         address: {
-            line1: '17th Cross, Richmond',
-            line2: 'Circle, Ring Road, London'
+            line1: 'Jr. Crespo Castillo',
+            line2: 'Huánuco, Perú'
         }
     },
     {
         _id: 'doc14',
-        name: 'Dr. Ryan Martinez',
+        name: 'Dr. Ryan Martínez',
         image: doc14,
-        speciality: 'Gynecologist',
-        degree: 'MBBS',
-        experience: '3 Years',
-        about: 'Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies. Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies.',
+        speciality: 'Ginecólogo',
+        degree: 'Licenciado en Medicina',
+        experience: '3 años',
+        about: 'El Dr. Martínez tiene un firme compromiso con la prestación de atención médica integral, centrándose en la medicina preventiva, el diagnóstico temprano y las estrategias de tratamiento eficaces.',
         fees: 60,
         address: {
-            line1: '27th Cross, Richmond',
-            line2: 'Circle, Ring Road, London'
+            line1: 'Av. Alfonso Ugarte',
+            line2: 'Huánuco, Perú'
         }
     },
     {
         _id: 'doc15',
-        name: 'Dr. Amelia Hill',
+        name: 'Dra. Amelia Hill',
         image: doc15,
-        speciality: 'Dermatologist',
-        degree: 'MBBS',
-        experience: '1 Years',
-        about: 'Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies. Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies.',
+        speciality: 'Dermatóloga',
+        degree: 'Licenciada en Medicina',
+        experience: '1 año',
+        about: 'La Dra. Hill tiene un firme compromiso con la prestación de atención médica integral, centrándose en la medicina preventiva, el diagnóstico temprano y las estrategias de tratamiento eficaces.',
         fees: 30,
         address: {
-            line1: '37th Cross, Richmond',
-            line2: 'Circle, Ring Road, London'
+            line1: 'Jr. Constitución',
+            line2: 'Huánuco, Perú'
         }
     },
 ]

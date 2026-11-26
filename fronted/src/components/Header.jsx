@@ -6,7 +6,7 @@ const Header = () => {
     <div className="flex flex-col md:flex-row flex-wrap bg-primary rounded-lg px-6 md:px-10 lg:px-20">
       {/* lado izquierdo */}
       <div className="md:w-1/2 flex flex-col items-start justify-center gap-4 py-10 m-auto md:py-[10vw] md:mb-[-30px] ">
-        <p className="text-3x1 md:text-4x1 leg:text-5x1 text-white font-semibold leading-tight md:leading-tight lg:leading-tight">
+        <p className="text-4xl md:text-7xl leg:text-5x1 text-white font-semibold leading-tight md:leading-tight lg:leading-tight">
           Reserve su Cita <br /> 
         </p>
         <div className="flex flex-col md:flex-row items-center gap-3 text-white text-sm font-light"> 
